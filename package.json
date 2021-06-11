@@ -1,0 +1,26 @@
+{
+  "name": "bootsrap-5-sass-portfolio",
+  "version": "1.0.0",
+  "description": "Learning Bootstarp v5 with SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayct/fcc-Bootstrap-5-SASS-Portfolio.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "bootstrap-v5",
+    "sass",
+    "learn-bootstrap",
+    "learn-sass"
+  ],
+  "author": "Raymond Turner - Ellatronix Ltd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayct/fcc-Bootstrap-5-SASS-Portfolio/issues"
+  },
+  "homepage": "https://github.com/rayct/fcc-Bootstrap-5-SASS-Portfolio#readme"
+}
