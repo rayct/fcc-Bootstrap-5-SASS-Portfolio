@@ -4,7 +4,7 @@
   "description": "Learning Bootstarp v5 with SASS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile:sass": "sass scss:assets/css"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,16 @@
   "bugs": {
     "url": "https://github.com/rayct/fcc-Bootstrap-5-SASS-Portfolio/issues"
   },
-  "homepage": "https://github.com/rayct/fcc-Bootstrap-5-SASS-Portfolio#readme"
+  "homepage": "https://github.com/rayct/fcc-Bootstrap-5-SASS-Portfolio#readme",
+  "devDependencies": {
+    "sass": "^1.34.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "@popperjs/core": "^2.9.2",
+    "autoprefixer": "^10.2.6",
+    "bootstrap": "^5.0.1",
+    "postcss": "^8.3.2",
+    "postcss-cli": "^8.3.1"
+  }
 }
