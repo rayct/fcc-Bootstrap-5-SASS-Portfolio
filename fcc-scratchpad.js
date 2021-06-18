@@ -1,45 +1,39 @@
-function isLess(a, b) {
+
+// Counting Cards
+var count = 0;
+
+function cc(card) {
     // Only change code below this line
-    return a === b; {
-        return true;
-        // Only change code above this line
-    }
-
-    isLess(10, 15);
 
 
+    return "Change Me";
+    // Only change code above this line
+}
 
+cc(2); cc(3); cc(7); cc('K'); cc('A');
 
 
 
 
 
+// Return Early Pattern for Functions
+// function abTest(a, b) {
+//     if (a < 0 || b < 0) {
+//         return undefined;
+//     }
+//     return Math.round(Math.pow(Math.sqrt(a) + Math.sqrt(b), 2));
+// }
+
+// console.log(abTest(2, 8));
 
 
+// function isLess(a, b) {
+
+    // return a < b; {
+        // return true;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    // isLess(10, 15);
 
 
 
