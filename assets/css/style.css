@@ -10790,7 +10790,7 @@ textarea.form-control-lg {
 }
 .menu li a {
   color: #000 !important;
-  text-transform: capitalize;
+  text-transform: uppercase;
   font-weight: 600;
 }
 
