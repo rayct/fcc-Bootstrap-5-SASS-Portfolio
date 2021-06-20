@@ -1,3 +1,41 @@
+// Accessing Object Properties with Variables
+
+
+
+
+// Accessing Object Properties with Bracket Notation
+// Setup
+var testObj = {
+    "an entree": "hamburger",
+    "my side": "veggies",
+    "the drink": "water"
+};
+
+// Only change code below this line
+
+var entreeValue = testObj["an entree"];   // Change this line
+var drinkValue = testObj["the drink"];    // Change this line
+
+
+
+// Accessing Object Properties with Dot Notation
+// Setup
+var testObj = {
+    "hat": "ballcap",
+    "shirt": "jersey",
+    "shoes": "cleats"
+};
+
+// Only change code below this line
+
+var hatValue = testObj.hat;      // Change this line
+var shirtValue = testObj.shirt;    // Change this line
+console.log(hatValue);
+
+
+
+
+
 // Build JavaScript Objects
 var myDog = {
     // Only change code below this line
@@ -8,7 +46,6 @@ var myDog = {
 
     // Only change code above this line
 };
-
 
 
 

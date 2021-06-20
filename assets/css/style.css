@@ -10827,7 +10827,7 @@ textarea.form-control-lg {
   height: 6rem;
   border: 0.55rem solid #000;
   border-radius: 50%;
-  animation-name: pulse-border 1.5s linear infinite;
+  animation: pulse-border 1.5s linear infinite;
 }
 .border-animation--border-1 {
   animation-delay: 1s;

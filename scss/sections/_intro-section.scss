@@ -37,7 +37,7 @@
     height: 6rem;
     border: 0.55rem solid $black;
     border-radius: 50%;
-    animation-name: pulse-border 1.5s linear infinite;
+    animation: pulse-border 1.5s linear infinite;
 
     &--border-1 {
         animation-delay: 1s;
