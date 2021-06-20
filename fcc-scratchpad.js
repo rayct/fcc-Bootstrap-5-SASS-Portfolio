@@ -1,17 +1,49 @@
+// Build JavaScript Objects
+var myDog = {
+    // Only change code below this line
+    "name": "Buster",
+    "legs": 4,
+    "tails": 1,
+    "friends": []
+
+    // Only change code above this line
+};
+
+
+
 
 // Counting Cards
 var count = 0;
 
 function cc(card) {
     // Only change code below this line
+    switch (card) {
+        case 2:
+        case 3:
+        case 4:
+        case 5:
+        case 6:
+            count++;
+            break;
+        case 10:
+        case 'J':
+        case 'Q':
+        case 'K':
+        case 'A':
+            count--;
+            break;
+    }
 
+    var holdbet = 'hold'
+    if (count > 0) {
+        holdbet = 'bet'
+    }
 
-    return "Change Me";
+    return count + " " + holdbet;
     // Only change code above this line
 }
 
 cc(2); cc(3); cc(7); cc('K'); cc('A');
-
 
 
 

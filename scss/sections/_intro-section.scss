@@ -16,15 +16,33 @@
 
 
         a{
-            position: absolute;
+            // @include absoluteCenter;
+
             span {
 
                 i {
                     font-size: 6rem;
-                    color: $black;
+                    color: $white;
                 }
             }
         }
     }
 }
 
+.border-animation {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 6rem;
+    height: 6rem;
+    border: 0.55rem solid $black;
+    border-radius: 50%;
+    animation-name: pulse-border 1.5s linear infinite;
+
+    &--border-1 {
+        animation-delay: 1s;
+    }
+    &--border-2 {
+        animation-delay: 1.5s;
+    }
+}
