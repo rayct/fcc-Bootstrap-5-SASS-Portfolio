@@ -1,3 +1,53 @@
+// Using Objects for lookups
+
+
+
+
+
+
+
+
+
+
+// Delete Properties from a JavaScript Object
+// Setup using . or Bracket Notation
+var myDog = {
+    "name": "Happy Coder",
+    "legs": 4,
+    "tails": 1,
+    "friends": ["freeCodeCamp Campers"],
+    "bark": "woof"
+  };
+  
+  // Only change code below this line
+  delete myDog["tails"];
+  delete myDog.tails;
+  console.log(myDog);
+
+
+
+// Add new properties to a JavaScript Object
+var myDog = {
+    "name": "Happy Coder",
+    "legs": 4,
+    "tails": 1,
+    "friends": ["freeCodeCamp Campers"]
+  };
+  myDog.bark = "woof";
+console.log(myDog.bark);  
+
+// Updating Object Properties
+// Setup
+var myDog = {
+    "name": "Coder",
+    "legs": 4,
+    "tails": 1,
+    "friends": ["freeCodeCamp Campers"]
+  };
+  
+  // Only change code below this line
+  myDog.name = "Happy Coder";
+  console.log(myDog.name);
 
 
 // Accessing Object Properties with Variables
