@@ -2,14 +2,14 @@
 @use'../components/mixins' as *;
 
 .menu{
-    @include gradient;
 
-     li {
-         padding: 0 0.7rem;
-         a {
-             color: $black !important;
-             text-transform: uppercase;
+    @include gradient;
+}  
+li {
+    padding: 0 0.7rem;
+    a {
+        color: $black !important;
+        text-transform: uppercase;
              font-weight: 600;
          }
      }
-}

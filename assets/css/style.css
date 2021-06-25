@@ -10855,10 +10855,11 @@ textarea.form-control-lg {
 .menu {
   background: linear-gradient(to right, rgba(236, 158, 22, 0.95), rgba(255, 199, 0, 0.8));
 }
-.menu li {
+
+li {
   padding: 0 0.7rem;
 }
-.menu li a {
+li a {
   color: #000 !important;
   text-transform: uppercase;
   font-weight: 600;
