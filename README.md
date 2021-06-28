@@ -1,3 +1,3 @@
 # fcc-Bootstrap-5-SASS-Portfolio
 ### WEBSITE SCREENSHOT
-! [Fullscreenshot]<img src="images/screenshots/Screenshot 2021-06-28 at 02-36-41 Tailored Scaffolding - Professional Scaffolders.png" width="700">
+![image](https://user-images.githubusercontent.com/50159421/123568569-83cce980-d7bc-11eb-92a6-50b267b3b8f9.png)
