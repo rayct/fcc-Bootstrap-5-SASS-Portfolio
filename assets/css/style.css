@@ -11078,11 +11078,11 @@ li a {
 }
 .form button {
   border: none;
-  color: #fff;
+  color: #000;
   text-transform: capitalize;
 }
 .form button a {
-  color: #fff;
+  color: #000;
   text-decoration: none;
   text-transform: capitalize;
 }
