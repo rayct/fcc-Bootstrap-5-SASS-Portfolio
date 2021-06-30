@@ -6,6 +6,7 @@
 @use 'components/button';
 @use 'components/mixins';
 @use 'components/typography';
+@use 'components/image_modal';
 
 // IMPORT THE SECTIONS
 @use 'sections/navbar';
@@ -17,3 +18,4 @@
 @use 'sections/portfolio';
 @use 'sections/get-started';
 @use 'sections/footer';
+@use 'sections/img-gallery';
