@@ -1,40 +1,4 @@
-Mr Christopher Anthony Reid
-26 Marshall Close
-Barnham, Bognor Regis
-PO22 0DQ
-chrisreid4@icloud.com
-Tel NO: 01243 696 031
-Mobile: 07787026349
-
-Policy No: UP2065315
-
-After having an hour long conversation with one of your call centre representatives, and completing the questions procedure it was agreed that my Quotation forms be sent via email.
-That was the evening of Friday 26th, 2021.
-
-I'm still as of yet to receive the forms. Please can you look into this as a matter of urgency?
-
-I fear a recurring pattern of a lack of communication, poor customer service and acts of maladministration taking form yet again after being reassured! (if you will pardon the expression) that comments and findings be forwarded to the relevant team managers to avoid this happening again in the future.
-
-May I bring to your attention letter Ref: CS/59691 Dated 22nd December 2020
-
-Also there is an investigation in to my complaint currently in progress, and as of yet No contact from you. Your Ref: CS/69045
-
-I spent over an hour on the phone dealing with this simple request.
-
-Yet again I'm left feeling terribly Anxious and extremely distressed with a high degree of inconvenience. This happens every time I contact you, all of which is having a major impact on my Psychological and Psychical well being.
-
-Please can you Investigate and address these matter's with the upmost urgency,
-
-I await your reply in anticipation
-
-regards
-Christopher Anthony Reid
-
-
-
-
-
-
+{% comment %} GIT {% endcomment %}
 Personal access tokens
 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
 
