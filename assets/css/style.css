@@ -11203,39 +11203,16 @@ li a {
   text-transform: capitalize;
 }
 
-.portfolio-box {
+.portfolio-box-gallery {
   position: relative;
   width: 100%;
   height: 18.5rem;
   overflow: hidden;
   margin-bottom: 1.2rem;
-  border-top: 0.5rem solid #EC9E16;
 }
-.portfolio-box img {
+.portfolio-box-gallery img {
   width: 100%;
   height: 100%;
-}
-.portfolio-box .portfolio-info {
-  background-color: rgba(236, 158, 22, 0.75);
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  opacity: 0;
-  visibility: hidden;
-}
-.portfolio-box .portfolio-info .caption {
-  text-align: center;
-  color: #000;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-.portfolio-box .portfolio-info .caption h4 {
-  text-transform: uppercase;
-  display: block;
 }
 
 /*# sourceMappingURL=style.css.map */
